@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "my calculator for lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TangiresH/MTRPZ-lab3.git"
+  },
+  "author": "tangiresH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TangiresH/MTRPZ-lab3/issues"
+  },
+  "homepage": "https://github.com/TangiresH/MTRPZ-lab3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
