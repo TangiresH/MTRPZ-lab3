@@ -1,4 +1,4 @@
-FROM python:alpine
+FROM python:slim-bullseye
 
 RUN apk add --no-cache musl-dev g++ gcc lapack-dev
 
